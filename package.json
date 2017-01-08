@@ -1,6 +1,6 @@
 {
   "name": "cookiestore",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cookiestore to persist data across our SPAs",
   "main": "cookiestore.js",
   "scripts": {
