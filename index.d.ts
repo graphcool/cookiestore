@@ -1,4 +1,4 @@
-import {Key} from './cookiestore.ts'
+import {Key} from './cookiestore'
 
 declare function set (key: Key, value: string): void
 declare function has (key: Key): boolean
