@@ -5,6 +5,7 @@ const domain = extractDomain()
 export type Key = 'graphcool_auth_token'
   | 'graphcool_customer_id'
   | 'graphcool_last_used_project_id'
+  | 'graphcool_last_referral'
 
 function extractDomain (): string {
   const hostname = window.location.hostname
